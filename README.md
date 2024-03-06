@@ -1,22 +1,20 @@
-🔌 Evinizi Akıllı Hale Getirin!
+Turn Your Home into Smart!
 
-Sık sık elektrik kesintilerinden mi muzdaripsiniz? Artık endişelenmenize gerek yok! Raspberry Pi ve Telegram botunun güçlü birleşimi ile evinizi akıllı hale getirebilirsiniz. Bu basit kod parçası sayesinde, elektrik kesintilerini anında haber alacak ve önlem alabileceksiniz.
+Are you frequently troubled by power outages? Now you don't need to worry anymore! With the powerful combination of Raspberry Pi and Telegram bot, you can make your home smart. With this simple piece of code, you'll instantly receive notifications of power outages and be able to take precautions.
 
-🌟 Nasıl Çalışır?
+🌟 How It Works?
 
-Bu özel yazılım, Raspberry Pi'nizde bir güç kesinti sensörüne bağlı olan bir GPIO pinini izler. Her 10 saniyede bir sistem durumu kontrol eder. Eğer bir kesinti algılanırsa, Telegram aracılığıyla size hemen bir mesaj gönderir.
+This custom software monitors a GPIO pin connected to a power outage sensor on your Raspberry Pi. It checks the system status every 10 seconds. If an outage is detected, it immediately sends you a message via Telegram.
 
-⚡ Güvenilirlik
+⚡ Reliability
 
-Raspberry Pi'nin güvenilirliği ve Telegram'ın anlık iletişim yetenekleri, evinizin güç durumunu izlemeyi bir zevke dönüştürüyor. Artık evde olmasanız bile, elektrik kesintileri hakkında bilgilendirileceksiniz.
+The reliability of the Raspberry Pi and the instant communication capabilities of Telegram make monitoring your home's power status a breeze. Now, even if you're not at home, you'll be informed about power outages.
 
-📱 Nasıl Kurulur?
+Run this code on your Raspberry Pi.
+Create a bot on Telegram and get a specific chat ID.
+Add your bot's token and chat ID into the code.
+Connect the power outage sensor to your GPIO pin.
 
-    Raspberry Pi'nizde bu kodu çalıştırın.
-    Telegram'da bir bot oluşturun ve belirli bir sohbet ID'si alın.
-    Kodun içine botunuzun token'ını ve sohbet ID'nizi ekleyin.
-    GPIO pininize güç kesinti sensörünü bağlayın.
+🚀 Get Started Now!
 
-🚀 Hemen Başlayın!
-
-Artık elektrik kesintileri hakkında endişelenmenize gerek yok! Bu basit adımları takip ederek, evinizi daha güvenli ve akıllı hale getirin. Her zaman güncel kalmak için bu yazılımı hemen kullanmaya başlayın!
+You no longer have to worry about power outages! Follow these simple steps to make your home safer and smarter. Start using this software now to stay up to date at all times! 
